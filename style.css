@@ -2,8 +2,8 @@ html {
 }
 
 body {
-  background: url('pinkspark.gif.gif');
-  repeat: repeat;
+  background: url('pinkspark.gif');
+  background-repeat: repeat;
   font-family: 'Times New Roman', serif;
 }
 
